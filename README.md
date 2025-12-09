@@ -1,6 +1,6 @@
 ## 👋 Sobre mim
 
-##### 💻 | Desenvolvedor Back-end <br>🥽 | Estudando TypeScript em Node.js
+##### 💻 | Desenvolvedor Back-end <br>🥽 | Estudando TypeScript em Node.js <br>
 
 <div align="center">
   <a href="https://github.com/caiozinn1">

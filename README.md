@@ -1,11 +1,6 @@
 ## 👋 Sobre mim
 
-##### 💻 | Desenvolvedor Back-end <br>🥽 | Estudando TypeScript em Node.js <br>
-
-<div align="center">
-  <a href="https://github.com/caiozinn1">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiozinn1&layout=compact&langs_count=7&theme=dark"/>
-</div>
+##### 💻 | Desenvolvedor Back-end <br>🥽 | Estudando TypeScript em Node.js
 
 ## 🔧 Tecnologias
 

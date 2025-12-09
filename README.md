@@ -1,6 +1,6 @@
 ## 👋 Sobre mim
 
-##### 💻 | Desenvolvedor Back-end JR <br>🥽 | Estudando TypeScript em Node.js <br>👑 | Owner & Founder: <a href="https://discord.gg/3uJ4tD9hs7">Next Development</a> (FiveM Development Server)
+##### 💻 | Desenvolvedor Back-end <br>🥽 | Estudando TypeScript em Node.js
 
 <div align="center">
   <a href="https://github.com/caiozinn1">
